@@ -1,3 +1,6 @@
+import entities.Board;
+import entities.Player;
+
 import java.util.Scanner;
 
 public class TicTacToeService {
